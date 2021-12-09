@@ -1,7 +1,7 @@
 # Apply Glasses
 Project1: Virtual Makeup Feature 2.
 
-For Apply Glasses algorithm, we will need to follow the following sequence of steps those are implemented in [main.py](https://github.com/EdissonM/Glasses/blob/main/main.py):
+For Apply Glasses algorithm, we will need to follow the following sequence of steps those are implemented in [main.py](https://github.com/EdissonM/Glasses/blob/master/main.py):
 
 - Detect the facial landmarks using:
     > shape_predictor_68_face_landmarks.dat.
